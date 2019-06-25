@@ -6,7 +6,7 @@ In the project directory, run:
 
 Install project dependencies.
 
-### `npm develop` or `npm build`
+### `npm run develop` or `npm run build`
 
 This generates the app.<br>
 Open /dist/index.html to view it in the browser.
