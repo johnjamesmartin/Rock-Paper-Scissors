@@ -1,5 +1,7 @@
 {
   "name": "rps",
+  "author": "John Martin <johnjamesmartin@live.com>",
+  "license": "MIT",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
